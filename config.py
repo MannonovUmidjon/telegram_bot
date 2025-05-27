@@ -1,5 +1,5 @@
 BOT_TOKEN = "7348821242:AAEYxu9eXAJjV9mbovPkYO5oaLQBMeRNmwo"
-ADMIN_IDS = [7646506662]
+ADMINS = [7646506662]
 
 LANGUAGES = {
     "🇺🇿 Oʻzbek": "uz",
